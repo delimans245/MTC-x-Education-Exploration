@@ -4,6 +4,7 @@ Assalamualaikum,
 
  On my free time I enjoy playing chess and clash royale. I am a competitive chess player and I have won multiple tournaments in chess. If you are wondering my current chess elo peak is 2246. I aim at being a master one day but it'll surely take time haha!
 
+![alt text](image.png)
 
 Major: Computer Science
 Threads: Intelligence & Theory
