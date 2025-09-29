@@ -1,36 +1,88 @@
-Assalamualaikum,
+# 👨‍💻 Ifaz Howlader
 
- My name is Ifaz Howlader. I am Education Board of Muslim Tech Collaborative and I am proud to start this intitative for people to share and work on stuff that excites them and provides potential to ignite inspiration in others. 
+<div align="center">
 
- On my free time I enjoy playing chess and clash royale. I am a competitive chess player and I have won multiple tournaments in chess. If you are wondering my current chess elo peak is 2246. I aim at being a master one day but it'll surely take time haha!
+![Profile Image](image.png)
 
-![alt text](image.png)
+**Education Board | Muslim Tech Collaborative**
 
-Major: Computer Science
-Threads: Intelligence & Theory
+*Building the future, one line of code at a time* ⚡
 
-Goals:
- - make MTC @GaTech huge
- - become a skilled software engineer
- - deploy a scalable business
+</div>
 
- Projects I want to work on:
-  - create a virtual machine from scratch <https://www.jmeiners.com/lc3-vm/> 
-  - create an operating system from scratch <https://github.com/cfenollosa/os-tutorial> <https://danluu.com/malloc-tutorial/>
-  - create my own Network Stack <http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/> <http://beej.us/guide/bgnet/>
-  - build my own git <https://kushagra.dev/blog/build-git-learn-git/>
+---
 
-Ongoing Projects:
- - Building Database from Scratch in C <https://cstack.github.io/db_tutorial/>
- - Leetcode logs automation script
- - MTC Education
+## 🌟 About Me
 
+**Assalamualaikum!** 
 
-Complete Projects:
- - None Yet
+I'm Ifaz Howlader, serving on the Education Board of Muslim Tech Collaborative. I'm passionate about creating initiatives that inspire people to share their work and ignite inspiration in others through technology and learning. I'm proud to have started the Education Exploration initiative and I am excited to see what emerges out of this intiative!
 
-Contribution made to Education Exploration:
- - None Yet
+### 🎯 Academic Background
+- **Major:** Computer Science
+- **Threads:** Intelligence & Theory
 
-links to projects:
- - None Yet
+### 🎮 Personal Interests
+When I'm not coding, you'll find me:
+- **♟️ Playing Chess** - Competitive player with multiple tournament wins
+- **👑 Current Peak Rating:** 2246 ELO (aspiring chess master!)
+- **🏰 Clash Royale** - Strategic gaming enthusiast
+
+---
+
+## 🚀 Goals & Aspirations
+
+- 🎓 **Make MTC @GaTech huge** - Growing our tech community
+- 💻 **Become a skilled software engineer** - Continuous learning and improvement
+- 🏢 **Deploy a scalable business** - Building impactful solutions
+
+---
+
+## 🔥 Dream Projects
+
+> *Projects I'm excited to tackle in the future*
+
+| Project | Description | Resources |
+|---------|-------------|-----------|
+| 🖥️ **Virtual Machine** | Create a VM from scratch | [Tutorial](https://www.jmeiners.com/lc3-vm/) |
+| 🔧 **Operating System** | Build my own OS | [OS Tutorial](https://github.com/cfenollosa/os-tutorial), [Malloc Guide](https://danluu.com/malloc-tutorial/) |
+| 🌐 **Network Stack** | Custom TCP/IP implementation | [Stack Tutorial](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/), [Network Guide](http://beej.us/guide/bgnet/) |
+| 📝 **Git Clone** | Build version control system | [Git Tutorial](https://kushagra.dev/blog/build-git-learn-git/) |
+
+---
+
+## 🚧 Current Projects
+
+- 🗄️ **Building Database from Scratch in C** - [Following this tutorial](https://cstack.github.io/db_tutorial/)
+- 📊 **Leetcode Logs Automation Script** - Tracking coding progress
+- 📚 **MTC Education** - Contributing to educational initiatives
+
+---
+
+## ✅ Completed Projects
+
+> *Coming soon...*
+
+---
+
+## 🤝 Education Exploration Contributions
+
+> *Exciting contributions in progress...*
+
+---
+
+## 🔗 Project Links
+
+> *Repository links will be added as projects develop...*
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect!
+
+*Always open to collaboration and new ideas*
+
+**"The best way to predict the future is to create it."** 
+
+</div>
