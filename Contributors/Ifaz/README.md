@@ -26,7 +26,7 @@ I'm Ifaz Howlader, serving on the Education Board of Muslim Tech Collaborative. 
 When I'm not coding, you'll find me:
 - **♟️ Playing Chess** - Competitive player with multiple tournament wins
 - **👑 Current Peak Rating:** 2246 ELO (aspiring chess master!)
-- **🏰 Clash Royale** - Strategic gaming enthusiast
+- **🏀 Basketball** - I want to dunk one day!
 
 ---
 
