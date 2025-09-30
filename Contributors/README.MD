@@ -4,7 +4,6 @@
 
 **Welcome to the MTC Education Exploration Contributors Community!**
 
-*Where innovation meets collaboration* ✨
 
 </div>
 
@@ -26,7 +25,7 @@ In the journey of developing and growing, a **leading key factor to success is c
 
 ## 📁 Current Contributors
 
-- **[Ifaz Howlader](./Ifaz/)** - Education Board | Database Systems & Chess Enthusiast
+- **[Ifaz Howlader](./Ifaz/)**
 
 > *Add your name here when you create your profile!*
 
@@ -42,7 +41,7 @@ cd Contributors/YourName
 
 ### Step 2: Add Your Profile Image
 ```bash
-# Add your profile image as 'image.png' or 'image.jpg'
+# Add your profile image(your favorite fruit) as 'image.png' or 'image.jpg'
 ```
 
 ### Step 3: Copy & Customize the Template Below
@@ -104,6 +103,7 @@ When I'm not coding, you'll find me:
 | 🖥️ **[Project Name]** | [Description] | [Links to tutorials/resources] |
 | 🔧 **[Project Name]** | [Description] | [Links to tutorials/resources] |
 | 🌐 **[Project Name]** | [Description] | [Links to tutorials/resources] |
+> *Or "Coming soon..." if none yet*
 
 ---
 
@@ -112,6 +112,7 @@ When I'm not coding, you'll find me:
 - 🔨 **[Project Name]** - [Brief description and link if available]
 - 📊 **[Project Name]** - [Brief description and link if available]
 - 📚 **[Project Name]** - [Brief description and link if available]
+> *Or "Coming soon..." if none yet*
 
 ---
 
