@@ -6,7 +6,7 @@
 
 **Education Board | Muslim Tech Collaborative**
 
-*Building the future, one line of code at a time* ⚡
+*This city needs me* 🦇
 
 </div>
 
