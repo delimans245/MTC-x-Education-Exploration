@@ -4,8 +4,6 @@
 
 ![Profile Image](image.png)
 
-**Education Board | Muslim Tech Collaborative**
-
 *This city needs me* 🦇
 
 </div>
