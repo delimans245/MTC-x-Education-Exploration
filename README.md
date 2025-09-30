@@ -91,6 +91,16 @@ MTC-Education-Exploration/
    - Contributors
    - How to run/use the project
 
+### 💡 **Need Project Inspiration?**
+
+Looking for exciting project ideas to build? Check out this amazing resource:
+
+🌟 **[Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)** - A comprehensive collection of tutorials for building your own versions of popular technologies from scratch!
+
+*Perfect for finding challenging projects to work on and then share with our community!*
+
+> 📝 **Important Note:** Even if a project type already exists in our repository, **we still encourage you to add your own attempt!** We want to see proof of people working on projects and taking initiative. Every implementation is unique and valuable - your approach, learning journey, and insights contribute to our collective growth. Multiple perspectives on the same project type only make our community stronger! 💪
+
 ---
 
 ## 👥 Join Our Community
